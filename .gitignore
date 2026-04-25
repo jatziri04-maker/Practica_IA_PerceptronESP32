@@ -1,0 +1,14 @@
+# Ignorar carpetas de Visual Studio
+.vs/
+.vscode/
+Debug/
+Release/
+*.opendb
+
+# Ignorar otras cosas comunes de proyectos
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.bin
